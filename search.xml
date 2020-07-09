@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>我的第一篇文章</title>
+      <link href="/2020/07/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2020/07/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="主要问题"><a href="#主要问题" class="headerlink" title="主要问题"></a>主要问题</h2><p>JetBrains Account connection error</p><h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2><blockquote><p>使用注册的学生JetBrains账号登录出现无法登录问题，网上大多解决方案是关于host的配置，但找不到相关的行。第一次出现是使用<code>Idea</code>。在使用<code>DataGrip</code>时再次出现。所以记录一下解决方法，下面是我的解决方案。</p></blockquote><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p><strong>先选择30天免费试用进入软件内主界面</strong></p><p><strong>1.选择<code>settings</code></strong><br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/2020061319523542.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDIyMzE4MA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>2.搜索<code>login</code>，并选择<code>Auto-detect proxy settings</code></strong><br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/202006131953185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDIyMzE4MA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>3.点击<code>check connection</code>，输入<code>http://account.jetbrains.com</code>，等待连接</strong><br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200613195439830.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDIyMzE4MA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200613195552725.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDIyMzE4MA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>4.选择<code>Help</code>的<code>Register</code>进行登录就OK了。</strong><br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200613195629470.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDIyMzE4MA==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试分类_0709 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试标签_0709 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/07/09/hello-world/"/>
       <url>/2020/07/09/hello-world/</url>
